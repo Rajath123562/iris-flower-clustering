@@ -1,0 +1,6 @@
+{
+  "name": "Iris Flower Clustering Project",
+  "description": "Interactive unsupervised machine learning dashboard demonstrating K-Means clustering, PCA dimensionality reduction, and evaluation metrics on the Iris dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
